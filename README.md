@@ -2,7 +2,7 @@
 
 __Software Developer at Volkswagen Digital Solutions | Full-Stack Developer | 5+ Years of Expertise__
 
-I am a passionate software developer with over 5 years of experience designing, developing, and maintaining software solutions across a variety of industries. Currently, I’m working at Volkswagen Digital Solutions, where I leverage my expertise in web development, backend services and cloud technologies. <br />
+I am a passionate software developer with over 5 years of experience designing, developing, and maintaining software solutions across a variety of industries.  I leverage my expertise in web development, backend services, and cloud technologies to build high-quality software. <br />
 I have worked with a wide range of technologies. I enjoy solving problems and working with teams to build useful and scalable solutions.
 
 <p> 
